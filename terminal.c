@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <sys/wait.h>
 #include <string.h>
-#include <stdlib.h>   // Add this for exit()
+#include <stdlib.h>   
 
 int main() {
 
